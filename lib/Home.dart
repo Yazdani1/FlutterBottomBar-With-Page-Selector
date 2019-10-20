@@ -28,7 +28,6 @@ class _HomeState extends State<Home> {
 
       body: _pageOptions[_selectedPage],
 
-
 //      bottomNavigationBar: new Theme(
 //        data: Theme.of(context).copyWith(
 //          // sets the background color of the `BottomNavigationBar`
